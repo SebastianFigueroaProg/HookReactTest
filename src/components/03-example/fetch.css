@@ -1,0 +1,11 @@
+body{
+    padding: 70px;
+}
+
+.blockquote{
+    text-align: right;
+}
+
+.blockquote p{
+    font-weight: bold;
+}
